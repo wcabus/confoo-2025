@@ -14,6 +14,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
+| Welcome to the AI Jungle! Now What? | Taylor Smith, Cedric Clyburn | [Slides (PDF)](26-02-2025/welcome_to_the_ai_jungle-now_what-taylor_smith-cedric_clyburn.pdf) |
 |--------------------|---------------|---------|
 
 
