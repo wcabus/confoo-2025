@@ -1,6 +1,6 @@
 # Confoo 2025
 
-[ConFoo 2024](https://www.confoo.ca/en/2025) is a multi-technology conference for developers that happened from February 26-28, 2025 in Montreal.
+[ConFoo 2025](https://www.confoo.ca/en/2025) is a multi-technology conference for developers that happened from February 26-28, 2025 in Montreal.
 
 - 190 presentations by popular international speakers.
 - Focused on pragmatic solutions for developers.
