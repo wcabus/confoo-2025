@@ -14,6 +14,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
+| Node.js and Javascript at the Edge | Michael Dawson | [slides](https://github.com/confooca/2025/blob/main/2025-02-26/Nodejs_and_JavaScript_at_the_Edge-Michael_Dawson.pdf)
 |--------------------|---------------|---------|
 
 
@@ -26,5 +27,6 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 ## February 28
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
+| Node.js What's new and what's next | Michael Dawson | [slides](https://github.com/confooca/2025/blob/main/28-02-2025/Nodejs_whats_new_and_whats_next-Michael_Dawson.pdf)
 |--------------------|---------------|---------|
 
