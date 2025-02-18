@@ -14,7 +14,8 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
-| Node.js and Javascript at the Edge | Michael Dawson | [slides](https://github.com/confooca/2025/blob/main/2025-02-26/Nodejs_and_JavaScript_at_the_Edge-Michael_Dawson.pdf)
+| Welcome to the AI Jungle! Now What? | Taylor Smith, Cedric Clyburn | [Slides (PDF)](26-02-2025/welcome_to_the_ai_jungle-now_what-taylor_smith-cedric_clyburn.pdf) |
+| Node.js and Javascript at the Edge | Michael Dawson | [slides](https://github.com/confooca/2025/blob/main/2025-02-26/Nodejs_and_JavaScript_at_the_Edge-Michael_Dawson.pdf) |
 |--------------------|---------------|---------|
 
 
