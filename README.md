@@ -16,6 +16,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 |--------------------|---------------|---------|
 | Welcome to the AI Jungle! Now What? | Taylor Smith, Cedric Clyburn | [Slides (PDF)](26-02-2025/Welcome_to_the_AI_Jungle-Now_What-Taylor_Smith-Cedric_Clyburn.pdf) |
 | Node.js and Javascript at the Edge | Michael Dawson | [slides](https://github.com/confooca/2025/blob/main/2025-02-26/Nodejs_and_JavaScript_at_the_Edge-Michael_Dawson.pdf) |
+| Abstract Syntax Tree | Thibault Friedrich | [slides](https://github.com/confooca/2025/blob/main/2025-02-26/abstract_syntax_tree-Thibault_Friedrich.pdf) [demo](https://github.com/confooca/2025/blob/main/2025-02-26/abstract_syntax_tree-Thibault_Friedrich.zip) |
 |--------------------|---------------|---------|
 
 
