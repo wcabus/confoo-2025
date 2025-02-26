@@ -21,6 +21,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Systems Thinking - Concepts To See The Whole | Joel Tosi | [Slides (PDF)](26-02-2025/Systems_Thinking_Concepts_To_See_The_Whole-Joel_Tosi.pdf) |
 | Loi 25 - Êtes-vous conforme? | Philippe Gamache             | [Slides (PDF)](https://github.com/confooca/2025/blob/main/2025-02-26/loi-25-etes-vous-conforme-philippe-gamache.pdf) |
 | Azure IaC for Developers with C# and Pulumi | AL Rodriguez | [Slides (PDF)](26-02-2025/Azure_IaC_for_Developers_with_CSharp_and_Pulumi-AL_Rodriguez.pdf) |
+| Not a Kubernetes fan? The state of PaaS in 2025 | Anthony Dahanne | [Slides (PDF)](https://github.com/confooca/2025/blob/main/2025-02-26/Not_a_Kubernetes_fan_The_state_of_PaaS_in_2025-anthony_dahanne.pdf) |
 |--------------------|---------------|---------|
 
 
