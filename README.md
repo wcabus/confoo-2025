@@ -20,6 +20,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Blending Product Thinking With Architecture | Joel Tosi | [Slides (PDF)](26-02-2025/Blending_Product_Thinking_With_Architecture-Joel_Tosi.pdf) |
 | Systems Thinking - Concepts To See The Whole | Joel Tosi | [Slides (PDF)](26-02-2025/Systems_Thinking_Concepts_To_See_The_Whole-Joel_Tosi.pdf) |
 | Loi 25 - Êtes-vous conforme? | Philippe Gamache             | [Slides (PDF)](https://github.com/confooca/2025/blob/main/2025-02-26/loi-25-etes-vous-conforme-philippe-gamache.pdf) |
+| Accessible Web Testing with Cypress and Axe Core | Vitaly Skadorva             | [Slides (PDF)](https://github.com/confooca/2025/blob/main/2025-02-26/Accessible_Web_Testing_with_Cypress_and_Axe_Core-Vitaly_Skadorva.pdf) |
 |--------------------|---------------|---------|
 
 
