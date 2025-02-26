@@ -28,6 +28,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
 Secure DevOps: Automated Mobile App Security Scanning | Lester Botello | [Slides (PDF)](27-02-2025/LesterB%20-%20Confoo2025%20-%20Secure%20DevOps.pdf)  / [Code](https://github.com/nventive/FlutterApplicationTemplate)
+| OAuth and trustworthy AI agents | Andrew Lavers | [Slides (PDF)](27-02-2025/oauth_and_trustworthy_ai_agents-andrew_lavers.pdf) |
 |--------------------|---------------|---------|
 
 
