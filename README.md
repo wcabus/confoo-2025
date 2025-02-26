@@ -16,6 +16,8 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 |--------------------|---------------|---------|
 | Welcome to the AI Jungle! Now What? | Taylor Smith, Cedric Clyburn | [Slides (PDF)](26-02-2025/Welcome_to_the_AI_Jungle-Now_What-Taylor_Smith-Cedric_Clyburn.pdf) |
 | Node.js and Javascript at the Edge | Michael Dawson | [slides](https://github.com/confooca/2025/blob/main/2025-02-26/Nodejs_and_JavaScript_at_the_Edge-Michael_Dawson.pdf) |
+| Blending Product Thinking With Architecture | Joel Tosi | [Slides (PDF)](26-02-2025/Blending_Product_Thinking_With_Architecture-Joel_Tosi.pdf) |
+| Systems Thinking - Concepts To See The Whole | Joel Tosi | [Slides (PDF)](26-02-2025/Systems_Thinking_Concepts_To_See_The_Whole-Joel_Tosi.pdf) |
 |--------------------|---------------|---------|
 
 
