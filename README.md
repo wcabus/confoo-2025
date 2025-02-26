@@ -25,7 +25,8 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 ## February 27
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
-Secure DevOps: Automated Mobile App Security Scanning | Lester Botello | [Slides (PDF)](27-02-2025/LesterB%20-%20Confoo2025%20-%20Secure%20DevOps.pdf)  / [Code](https://github.com/nventive/FlutterApplicationTemplate)
+|Secure DevOps: Automated Mobile App Security Scanning | Lester Botello | [Slides (PDF)](27-02-2025/LesterB%20-%20Confoo2025%20-%20Secure%20DevOps.pdf)  / [Code](https://github.com/nventive/FlutterApplicationTemplate)|
+|👨‍💻 Utiliser un LLM </br>aussi simplement qu'une librairie 🤖 | Stéphane Philippart | [Slides (PDF)](27-02-2025/👨‍💻%20Utiliser%20un%20LLM%20aussi%20simplement%20qu'une%20librairie%20🤖.pdf)  / [Code](https://github.com/philippart-s/ai-as-lib)|
 |--------------------|---------------|---------|
 
 
@@ -34,6 +35,7 @@ Secure DevOps: Automated Mobile App Security Scanning | Lester Botello | [Slides
 |--------------------|---------------|---------|
 | Node.js What's new and what's next | Michael Dawson | [slides](https://github.com/confooca/2025/blob/main/28-02-2025/Nodejs_whats_new_and_whats_next-Michael_Dawson.pdf)
 XAML Who? Debuggable Cross-Platform UI with C# for Markup | Lester Botello | [Slides (PDF)](28-02-2025/LesterB%20-%20Confoo2025%20-%20XAML%20Who.pdf)  / [Code](https://github.com/lesterbotello/ConFoo2025)
+|Picocli, mets du Java dans ton terminal ! 🧑‍💻 ☕️ | Stéphane Philippart | [Slides (PDF)](28-02-2025/Picocli,mets%20du%20Java%20dans%20ton%20terminal%20!%20💻%20☕️.pdf)  / [Code](https://github.com/philippart-s/jarvis)|
 |--------------------|---------------|---------|
 
 
