@@ -12,16 +12,17 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 ## February 26
 
-| Presentation Title | Speaker Name  | Content |
-|--------------------|---------------|---------|
-| Welcome to the AI Jungle! Now What? | Taylor Smith, Cedric Clyburn | [Slides (PDF)](26-02-2025/Welcome_to_the_AI_Jungle-Now_What-Taylor_Smith-Cedric_Clyburn.pdf) |
-| Node.js and Javascript at the Edge | Michael Dawson | [slides](https://github.com/confooca/2025/blob/main/2025-02-26/Nodejs_and_JavaScript_at_the_Edge-Michael_Dawson.pdf) |
-| Let's build a .NET YouTube player! For all platforms! | Steve Bilogan | [slides (PDF)](/26-02-2025/Lets_build_a_NET_YouTube_player_For_all_platforms-Steve_Bilogan.pdf) |
-| Blending Product Thinking With Architecture | Joel Tosi | [Slides (PDF)](26-02-2025/Blending_Product_Thinking_With_Architecture-Joel_Tosi.pdf) |
-| Systems Thinking - Concepts To See The Whole | Joel Tosi | [Slides (PDF)](26-02-2025/Systems_Thinking_Concepts_To_See_The_Whole-Joel_Tosi.pdf) |
-| Loi 25 - Êtes-vous conforme? | Philippe Gamache             | [Slides (PDF)](https://github.com/confooca/2025/blob/main/2025-02-26/loi-25-etes-vous-conforme-philippe-gamache.pdf) |
-| Azure IaC for Developers with C# and Pulumi | AL Rodriguez | [Slides (PDF)](26-02-2025/Azure_IaC_for_Developers_with_CSharp_and_Pulumi-AL_Rodriguez.pdf) |
-|--------------------|---------------|---------|
+| Presentation Title | Speaker Name  | Content                                                                                                                          |
+|--------------------|---------------|----------------------------------------------------------------------------------------------------------------------------------|
+| Welcome to the AI Jungle! Now What? | Taylor Smith, Cedric Clyburn | [Slides (PDF)](26-02-2025/Welcome_to_the_AI_Jungle-Now_What-Taylor_Smith-Cedric_Clyburn.pdf)                                     |
+| Node.js and Javascript at the Edge | Michael Dawson | [slides](https://github.com/confooca/2025/blob/main/2025-02-26/Nodejs_and_JavaScript_at_the_Edge-Michael_Dawson.pdf)             |
+| Let's build a .NET YouTube player! For all platforms! | Steve Bilogan | [slides (PDF)](/26-02-2025/Lets_build_a_NET_YouTube_player_For_all_platforms-Steve_Bilogan.pdf)                                  |
+| Blending Product Thinking With Architecture | Joel Tosi | [Slides (PDF)](26-02-2025/Blending_Product_Thinking_With_Architecture-Joel_Tosi.pdf)                                             |
+| Systems Thinking - Concepts To See The Whole | Joel Tosi | [Slides (PDF)](26-02-2025/Systems_Thinking_Concepts_To_See_The_Whole-Joel_Tosi.pdf)                                              |
+| Loi 25 - Êtes-vous conforme? | Philippe Gamache             | [Slides (PDF)](https://github.com/confooca/2025/blob/main/2025-02-26/loi-25-etes-vous-conforme-philippe-gamache.pdf)             |
+| Azure IaC for Developers with C# and Pulumi | AL Rodriguez | [Slides (PDF)](26-02-2025/Azure_IaC_for_Developers_with_CSharp_and_Pulumi-AL_Rodriguez.pdf)                                      |
+| Going Async with Symfony Messenger  | Hugo Hamon | [Slides (PDF)](2025-02-26/Going_Async_with_Symfony_Messenger-Hugo_Hamon.pdf) / [Code](https://github.com/hhamon/messenger-talk)  |
+|--------------------|---------------| ---------                                                                                                                        |
 
 
 ## February 27
