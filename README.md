@@ -22,14 +22,16 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Loi 25 - Êtes-vous conforme? | Philippe Gamache             | [Slides (PDF)](https://github.com/confooca/2025/blob/main/2025-02-26/loi-25-etes-vous-conforme-philippe-gamache.pdf) |
 | Azure IaC for Developers with C# and Pulumi | AL Rodriguez | [Slides (PDF)](26-02-2025/Azure_IaC_for_Developers_with_CSharp_and_Pulumi-AL_Rodriguez.pdf) |
 | Containers All The Way Down! | Mark Heckler | [Slides (PDF)](26-02-2025/Containers_All_The_Way_Down-Mark_Heckler.pdf) [Code](https://github.com/mkheck/catwd-demo) |
+| Going Async with Symfony Messenger  | Hugo Hamon | [Slides (PDF)](2025-02-26/Going_Async_with_Symfony_Messenger-Hugo_Hamon.pdf) / [Code](https://github.com/hhamon/messenger-talk)  |
 |--------------------|---------------|---------|
 
 
 ## February 27
-| Presentation Title | Speaker Name  | Content |
-|--------------------|---------------|---------|
-Secure DevOps: Automated Mobile App Security Scanning | Lester Botello | [Slides (PDF)](27-02-2025/LesterB%20-%20Confoo2025%20-%20Secure%20DevOps.pdf)  / [Code](https://github.com/nventive/FlutterApplicationTemplate)
-|--------------------|---------------|---------|
+| Presentation Title | Speaker Name    | Content                                                                                                                                        |
+|--------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| From Idea to Impact: Building RAG Beyond POC | Maria Khalusova | [Slides (PDF)](27-02-2025/From_Idea_to_Impact_Building_RAG_Beyond_POC-Maria_Khalusova.pdf)|                                                     |
+Secure DevOps: Automated Mobile App Security Scanning | Lester Botello  | [Slides (PDF)](27-02-2025/LesterB%20-%20Confoo2025%20-%20Secure%20DevOps.pdf)  / [Code](https://github.com/nventive/FlutterApplicationTemplate) 
+|--------------------| --------------- | ---------                                                                                                                                      |
 
 
 ## February 28
