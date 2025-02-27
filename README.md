@@ -25,10 +25,10 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 
 ## February 27
-| Presentation Title | Speaker Name  | Content |
-|--------------------|---------------|---------|
-Secure DevOps: Automated Mobile App Security Scanning | Lester Botello | [Slides (PDF)](27-02-2025/LesterB%20-%20Confoo2025%20-%20Secure%20DevOps.pdf)  / [Code](https://github.com/nventive/FlutterApplicationTemplate)
-|--------------------|---------------|---------|
+| Presentation Title                                    | Speaker Name  | Content |
+|-------------------------------------------------------|---------------|---------|
+ Secure DevOps: Automated Mobile App Security Scanning | Lester Botello | [Slides (PDF)](27-02-2025/LesterB%20-%20Confoo2025%20-%20Secure%20DevOps.pdf)  / [Code](https://github.com/nventive/FlutterApplicationTemplate)
+| Netty                                                 | Sean Sullivan | [slides (PDF)](27-02-2025/netty_sean_sullivan.pdf)|
 
 
 ## February 28
