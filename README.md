@@ -25,10 +25,11 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 
 ## February 27
-| Presentation Title | Speaker Name  | Content |
-|--------------------|---------------|---------|
-Secure DevOps: Automated Mobile App Security Scanning | Lester Botello | [Slides (PDF)](27-02-2025/LesterB%20-%20Confoo2025%20-%20Secure%20DevOps.pdf)  / [Code](https://github.com/nventive/FlutterApplicationTemplate)
-|--------------------|---------------|---------|
+| Presentation Title | Speaker Name    | Content                                                                                                                                        |
+|--------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| From Idea to Impact: Building RAG Beyond POC | Maria Khalusova | [Slides (PDF)](27-02-2025/From_Idea_to_Impact_Building_RAG_Beyond_POC-Maria_Khalusova.pdf)|                                                     |
+Secure DevOps: Automated Mobile App Security Scanning | Lester Botello  | [Slides (PDF)](27-02-2025/LesterB%20-%20Confoo2025%20-%20Secure%20DevOps.pdf)  / [Code](https://github.com/nventive/FlutterApplicationTemplate) 
+|--------------------| --------------- | ---------                                                                                                                                      |
 
 
 ## February 28
