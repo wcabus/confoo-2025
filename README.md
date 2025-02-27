@@ -21,6 +21,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Systems Thinking - Concepts To See The Whole | Joel Tosi | [Slides (PDF)](26-02-2025/Systems_Thinking_Concepts_To_See_The_Whole-Joel_Tosi.pdf) |
 | Loi 25 - Êtes-vous conforme? | Philippe Gamache             | [Slides (PDF)](https://github.com/confooca/2025/blob/main/2025-02-26/loi-25-etes-vous-conforme-philippe-gamache.pdf) |
 | Azure IaC for Developers with C# and Pulumi | AL Rodriguez | [Slides (PDF)](26-02-2025/Azure_IaC_for_Developers_with_CSharp_and_Pulumi-AL_Rodriguez.pdf) |
+| Containers All The Way Down! | Mark Heckler | [Slides (PDF)](26-02-2025/Containers_All_The_Way_Down-Mark_Heckler.pdf) [Code](https://github.com/mkheck/catwd-demo) |
 |--------------------|---------------|---------|
 
 
