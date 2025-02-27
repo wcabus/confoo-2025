@@ -21,6 +21,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Systems Thinking - Concepts To See The Whole | Joel Tosi | [Slides (PDF)](26-02-2025/Systems_Thinking_Concepts_To_See_The_Whole-Joel_Tosi.pdf) |
 | Loi 25 - Êtes-vous conforme? | Philippe Gamache             | [Slides (PDF)](https://github.com/confooca/2025/blob/main/2025-02-26/loi-25-etes-vous-conforme-philippe-gamache.pdf) |
 | Azure IaC for Developers with C# and Pulumi | AL Rodriguez | [Slides (PDF)](26-02-2025/Azure_IaC_for_Developers_with_CSharp_and_Pulumi-AL_Rodriguez.pdf) |
+| [Local-First Web Development With the Help of WebAssembly](https://confoo.ca/en/2025/session/local-first-web-development-with-the-help-of-webassembly) | Gerard Gallant | [slides](https://github.com/confooca/2025/blob/main/26-02-2025/local_first_web_development_with_the_help_of_webassembly-gerard_gallant.pdf), [code](https://github.com/confooca/2025/blob/main/26-02-2025/local_first_web_development_with_the_help_of_webassembly-gerard_gallant.zip) |
 |--------------------|---------------|---------|
 
 
@@ -28,6 +29,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
 Secure DevOps: Automated Mobile App Security Scanning | Lester Botello | [Slides (PDF)](27-02-2025/LesterB%20-%20Confoo2025%20-%20Secure%20DevOps.pdf)  / [Code](https://github.com/nventive/FlutterApplicationTemplate)
+| [Using WebAssembly in a Web Component as a Polyfill](https://confoo.ca/en/2025/session/using-webassembly-in-a-web-component-as-a-polyfill) | Gerard Gallant | [slides](https://github.com/confooca/2025/blob/main/27-02-2025/using_webassembly_in_a_web_component_as_a_polyfill-gerard_gallant.pdf), [code](https://github.com/confooca/2025/blob/main/27-02-2025/using_webassembly_in_a_web_component_as_a_polyfill-gerard_gallant.zip) |
 |--------------------|---------------|---------|
 
 
