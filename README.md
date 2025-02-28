@@ -23,15 +23,19 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Azure IaC for Developers with C# and Pulumi | AL Rodriguez | [Slides (PDF)](26-02-2025/Azure_IaC_for_Developers_with_CSharp_and_Pulumi-AL_Rodriguez.pdf)                                      |
 | Going Async with Symfony Messenger  | Hugo Hamon | [Slides (PDF)](2025-02-26/Going_Async_with_Symfony_Messenger-Hugo_Hamon.pdf) / [Code](https://github.com/hhamon/messenger-talk)  |
 | Not a Kubernetes fan? The state of PaaS in 2025 | Anthony Dahanne | [Slides (PDF)](https://github.com/confooca/2025/blob/main/2025-02-26/Not_a_Kubernetes_fan_The_state_of_PaaS_in_2025-anthony_dahanne.pdf) |
+| GitHub Actions                                        | Sean Sullivan                | [Slides (PDF)](26-02-2025/github_actions_sean_sullivan.pdf)                                                          |
 |--------------------|---------------| ---------                                                                                                                        |
 
 
 ## February 27
+
 | Presentation Title | Speaker Name    | Content                                                                                                                                        |
 |--------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| From Idea to Impact: Building RAG Beyond POC | Maria Khalusova | [Slides (PDF)](27-02-2025/From_Idea_to_Impact_Building_RAG_Beyond_POC-Maria_Khalusova.pdf)|                                                     |
-Secure DevOps: Automated Mobile App Security Scanning | Lester Botello  | [Slides (PDF)](27-02-2025/LesterB%20-%20Confoo2025%20-%20Secure%20DevOps.pdf)  / [Code](https://github.com/nventive/FlutterApplicationTemplate) 
+| From Idea to Impact: Building RAG Beyond POC | Maria Khalusova | [Slides (PDF)](27-02-2025/From_Idea_to_Impact_Building_RAG_Beyond_POC-Maria_Khalusova.pdf) |
+| Secure DevOps: Automated Mobile App Security Scanning | Lester Botello  | [Slides (PDF)](27-02-2025/LesterB%20-%20Confoo2025%20-%20Secure%20DevOps.pdf)  / [Code](https://github.com/nventive/FlutterApplicationTemplate) |
+| Netty                                                 | Sean Sullivan | [slides (PDF)](27-02-2025/netty_sean_sullivan.pdf)|
 |--------------------| --------------- | ---------                                                                                                                                      |
+
 
 
 ## February 28
