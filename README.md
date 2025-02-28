@@ -10,7 +10,6 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 
 Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
-
 ## February 26
 
 | Presentation Title                  | Speaker Name                 | Content                                                                                                              |
@@ -32,6 +31,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Abstract Syntax Tree | Thibault Friedrich | [slides](2025-02-26/abstract_syntax_tree-Thibault_Friedrich.pdf) [demo](2025-02-26/abstract_syntax_tree-Thibault_Friedrich.zip) |
 | Learning in production (or why Apollo 11 nearly failed) | Michiel Rook | [Slides (PDF)](https://github.com/confooca/2025/blob/main/2025-02-26/Learning_In_Production-Michiel_Rook.pdf) |
 | Finite State Machines Made Easy | Marco Ippolito | [Slides (PDF)](26-02-2025/Finite_State_Machines_Made_Easy-Marco_Ippolito.pdf) |
+| Local-First Web Development With the Help of WebAssembly | Gerard Gallant | [slides](26-02-2025/local_first_web_development_with_the_help_of_webassembly-gerard_gallant.pdf), [code](26-02-2025/local_first_web_development_with_the_help_of_webassembly-gerard_gallant.zip) |
 
 ## February 27
 
@@ -46,6 +46,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Netty                                                 | Sean Sullivan | [slides (PDF)](27-02-2025/netty_sean_sullivan.pdf)|
 | Ça bouge du côté des animations CSS | Raphaël Goetter | [slides](27-02-2025/Animations_CSS-raphael_goetter.pdf) |
 | OAuth and trustworthy AI agents | Andrew Lavers | [Slides (PDF)](27-02-2025/oauth_and_trustworthy_ai_agents-andrew_lavers.pdf) |
+| Using WebAssembly in a Web Component as a Polyfill | Gerard Gallant | [slides](27-02-2025/using_webassembly_in_a_web_component_as_a_polyfill-gerard_gallant.pdf), [code](27-02-2025/using_webassembly_in_a_web_component_as_a_polyfill-gerard_gallant.zip) |
 
 ## February 28
 
