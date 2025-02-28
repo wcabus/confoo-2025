@@ -38,6 +38,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
 | Secure DevOps: Automated Mobile App Security Scanning | Lester Botello | [Slides (PDF)](27-02-2025/LesterB%20-%20Confoo2025%20-%20Secure%20DevOps.pdf)  / [Code](https://github.com/nventive/FlutterApplicationTemplate) |
+| Core Web Vitals and their effect on User Experience | Philip Tellis | [Slides (PDF)](https://speakerdeck.com/bluesmoon/core-web-vitals-and-their-effect-on-user-experience) |
 | The Path to Native TypeScript | Marco Ippolito | [Slides (PDF)](27-02-2025/The_Path_to_Native_TypeScript-Marco_Ippolito.pdf) |
 | 👨‍💻 Utiliser un LLM aussi simplement qu'une librairie 🤖 | Stéphane Philippart | [Slides (PDF)](27-02-2025/Utiliser_un_LLM_aussi_simplement_qu_une_librairie-stephane_philippart.pdf)  / [Code](https://github.com/philippart-s/ai-as-lib)|
 | 6 Safe Refactorings for Untested Legacy Code | Nicolas Carlo | [Slides (PDF)](27-02-2025/6_Safe_Refactorings_for_Untested_Legacy_Code-Nicolas_Carlo.pdf) |
@@ -50,8 +51,10 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
+| XAML Who? Debuggable Cross-Platform UI with C# for Markup | Lester Botello | [Slides (PDF)](28-02-2025/LesterB%20-%20Confoo2025%20-%20XAML%20Who.pdf)  / [Code](https://github.com/lesterbotello/ConFoo2025)
+| Intro to OpenTelemetry for Developers | AL Rodriguez | [Slides (PDF)](28-02-2025/Intro_to_OpenTelemetry_for_Developers-AL_Rodriguez.pdf) |
 | Node.js What's new and what's next | Michael Dawson | [slides](28-02-2025/Nodejs_whats_new_and_whats_next-Michael_Dawson.pdf) |
 | XAML Who? Debuggable Cross-Platform UI with C# for Markup | Lester Botello | [Slides (PDF)](28-02-2025/LesterB%20-%20Confoo2025%20-%20XAML%20Who.pdf)  / [Code](https://github.com/lesterbotello/ConFoo2025)
-|Picocli, mets du Java dans ton terminal ! 🧑‍💻 ☕️ | Stéphane Philippart | [Slides (PDF)](28-02-2025/Picocli_mets_du_Java_dans_ton_terminal-stephane_philippart.pdf)  / [Code](https://github.com/philippart-s/jarvis)|
+| Picocli, mets du Java dans ton terminal ! 🧑‍💻 ☕️ | Stéphane Philippart | [Slides (PDF)](28-02-2025/Picocli_mets_du_Java_dans_ton_terminal-stephane_philippart.pdf)  / [Code](https://github.com/philippart-s/jarvis)|
 | Intro to OpenTelemetry for Developers | AL Rodriguez | [Slides (PDF)](28-02-2025/Intro_to_OpenTelemetry_for_Developers-AL_Rodriguez.pdf) ||--------------------|---------------|---------|
 | (not) Alone in the Dark Mode       | Raphaël Goetter | [slides](28-02-2025/Darkmode-raphael_goetter.pdf)                       |
