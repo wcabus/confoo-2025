@@ -23,8 +23,10 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Loi 25 - Êtes-vous conforme? | Philippe Gamache             | [Slides (PDF)](https://github.com/confooca/2025/blob/main/2025-02-26/loi-25-etes-vous-conforme-philippe-gamache.pdf)             |
 | Azure IaC for Developers with C# and Pulumi | AL Rodriguez | [Slides (PDF)](26-02-2025/Azure_IaC_for_Developers_with_CSharp_and_Pulumi-AL_Rodriguez.pdf)                                      |
 | Going Async with Symfony Messenger  | Hugo Hamon | [Slides (PDF)](2025-02-26/Going_Async_with_Symfony_Messenger-Hugo_Hamon.pdf) / [Code](https://github.com/hhamon/messenger-talk)  |
+| Not a Kubernetes fan? The state of PaaS in 2025 | Anthony Dahanne | [Slides (PDF)](https://github.com/confooca/2025/blob/main/2025-02-26/Not_a_Kubernetes_fan_The_state_of_PaaS_in_2025-anthony_dahanne.pdf) |
 | GitHub Actions                                        | Sean Sullivan                | [Slides (PDF)](26-02-2025/github_actions_sean_sullivan.pdf)                                                          |
 | Vector Search in Modern Databases | Peter Zaitsev | [Slides (PDF)](26-02-2025/Vector_search_in_modern_databases-Peter_Zaitsev.pdf) |
+| Accessible Web Testing with Cypress and Axe Core | Vitaly Skadorva             | [Slides (PDF)](https://github.com/confooca/2025/blob/main/26-02-2025/Accessible_Web_Testing_with_Cypress_and_Axe_Core-Vitaly_Skadorva.pdf) |
 |--------------------|---------------| ---------                                                                                                                        |
 
 
