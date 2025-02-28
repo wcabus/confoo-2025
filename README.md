@@ -44,6 +44,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | From Idea to Impact: Building RAG Beyond POC | Maria Khalusova | [Slides (PDF)](27-02-2025/From_Idea_to_Impact_Building_RAG_Beyond_POC-Maria_Khalusova.pdf) |
 | Netty                                                 | Sean Sullivan | [slides (PDF)](27-02-2025/netty_sean_sullivan.pdf)|
 | Ça bouge du côté des animations CSS | Raphaël Goetter | [slides](27-02-2025/Animations_CSS-raphael_goetter.pdf) |
+| OAuth and trustworthy AI agents | Andrew Lavers | [Slides (PDF)](27-02-2025/oauth_and_trustworthy_ai_agents-andrew_lavers.pdf) |
 
 ## February 28
 
