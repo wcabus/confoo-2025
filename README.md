@@ -33,7 +33,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Finite State Machines Made Easy | Marco Ippolito | [Slides (PDF)](26-02-2025/Finite_State_Machines_Made_Easy-Marco_Ippolito.pdf) |
 | Local-First Web Development With the Help of WebAssembly | Gerard Gallant | [slides](26-02-2025/local_first_web_development_with_the_help_of_webassembly-gerard_gallant.pdf), [code](26-02-2025/local_first_web_development_with_the_help_of_webassembly-gerard_gallant.zip) |
 | Securing the JavaScript Ecosystem with Reproducibility | Darcy Clarke | [Slides (PDF)](26-02-2025/Securing_the_JavaScript_Ecosystem_with_Reproducibility-Darcy_Clarke.pdf) |
-
+| Containers All The Way Down! | Mark Heckler | [Slides (PDF)](26-02-2025/Containers_All_The_Way_Down-Mark_Heckler.pdf) [Code](https://github.com/mkheck/catwd-demo) |
 
 ## February 27
 
@@ -60,5 +60,4 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Node.js What's new and what's next | Michael Dawson | [slides](https://github.com/confooca/2025/blob/main/28-02-2025/Nodejs_whats_new_and_whats_next-Michael_Dawson.pdf)
 | XAML Who? Debuggable Cross-Platform UI with C# for Markup | Lester Botello | [Slides (PDF)](28-02-2025/LesterB%20-%20Confoo2025%20-%20XAML%20Who.pdf)  / [Code](https://github.com/lesterbotello/ConFoo2025)
 | Picocli, mets du Java dans ton terminal ! 🧑‍💻 ☕️ | Stéphane Philippart | [Slides (PDF)](28-02-2025/Picocli_mets_du_Java_dans_ton_terminal-stephane_philippart.pdf)  / [Code](https://github.com/philippart-s/jarvis)|
-| Intro to OpenTelemetry for Developers | AL Rodriguez | [Slides (PDF)](28-02-2025/Intro_to_OpenTelemetry_for_Developers-AL_Rodriguez.pdf) ||--------------------|---------------|---------|
 | (not) Alone in the Dark Mode       | Raphaël Goetter | [slides](28-02-2025/Darkmode-raphael_goetter.pdf)                       |
