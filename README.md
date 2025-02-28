@@ -61,3 +61,4 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | XAML Who? Debuggable Cross-Platform UI with C# for Markup | Lester Botello | [Slides (PDF)](28-02-2025/LesterB%20-%20Confoo2025%20-%20XAML%20Who.pdf)  / [Code](https://github.com/lesterbotello/ConFoo2025)
 | Picocli, mets du Java dans ton terminal ! 🧑‍💻 ☕️ | Stéphane Philippart | [Slides (PDF)](28-02-2025/Picocli_mets_du_Java_dans_ton_terminal-stephane_philippart.pdf)  / [Code](https://github.com/philippart-s/jarvis)|
 | (not) Alone in the Dark Mode       | Raphaël Goetter | [slides](28-02-2025/Darkmode-raphael_goetter.pdf)                       |
+| The Statistics of Anomaly Detection | Philip Tellis | [slides](https://speakerdeck.com/bluesmoon/the-statistics-of-anomaly-detection) |
