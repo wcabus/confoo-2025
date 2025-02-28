@@ -22,19 +22,25 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Loi 25 - Êtes-vous conforme? | Philippe Gamache             | [Slides (PDF)](https://github.com/confooca/2025/blob/main/2025-02-26/loi-25-etes-vous-conforme-philippe-gamache.pdf)             |
 | Azure IaC for Developers with C# and Pulumi | AL Rodriguez | [Slides (PDF)](26-02-2025/Azure_IaC_for_Developers_with_CSharp_and_Pulumi-AL_Rodriguez.pdf)                                      |
 | Going Async with Symfony Messenger  | Hugo Hamon | [Slides (PDF)](2025-02-26/Going_Async_with_Symfony_Messenger-Hugo_Hamon.pdf) / [Code](https://github.com/hhamon/messenger-talk)  |
+| Not a Kubernetes fan? The state of PaaS in 2025 | Anthony Dahanne | [Slides (PDF)](https://github.com/confooca/2025/blob/main/2025-02-26/Not_a_Kubernetes_fan_The_state_of_PaaS_in_2025-anthony_dahanne.pdf) |
+| GitHub Actions                                        | Sean Sullivan                | [Slides (PDF)](26-02-2025/github_actions_sean_sullivan.pdf)                                                          |
+| Vector Search in Modern Databases | Peter Zaitsev | [Slides (PDF)](26-02-2025/Vector_search_in_modern_databases-Peter_Zaitsev.pdf) |
+| Accessible Web Testing with Cypress and Axe Core | Vitaly Skadorva             | [Slides (PDF)](https://github.com/confooca/2025/blob/main/26-02-2025/Accessible_Web_Testing_with_Cypress_and_Axe_Core-Vitaly_Skadorva.pdf) |
+| Don't use JavaScript for that, use HTML and CSS! | Kilian Valkhof | [Slides (PDF)](26-02-2025/dont_use_javascript_for_that-kilian_valkhof.pdf)
 |--------------------|---------------| ---------                                                                                                                        |
 
-
 ## February 27
+
 | Presentation Title | Speaker Name    | Content                                                                                                                                        |
 |--------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| From Idea to Impact: Building RAG Beyond POC | Maria Khalusova | [Slides (PDF)](27-02-2025/From_Idea_to_Impact_Building_RAG_Beyond_POC-Maria_Khalusova.pdf)|                                                     |
+| From Idea to Impact: Building RAG Beyond POC | Maria Khalusova | [Slides (PDF)](27-02-2025/From_Idea_to_Impact_Building_RAG_Beyond_POC-Maria_Khalusova.pdf) |
 | Secure DevOps: Automated Mobile App Security Scanning | Lester Botello  | [Slides (PDF)](27-02-2025/LesterB%20-%20Confoo2025%20-%20Secure%20DevOps.pdf)  / [Code](https://github.com/nventive/FlutterApplicationTemplate) |
+| Netty                                                 | Sean Sullivan | [slides (PDF)](27-02-2025/netty_sean_sullivan.pdf)|
 | [Are you sure your access tokens are really secure?](https://confoo.ca/en/2025/session/are-you-sure-your-access-tokens-are-really-secure) | Wesley Cabus | [Slides](27-02-2025/Are_you_sure_your_access_tokens_are_really_secure-Wesley_Cabus.pdf) |
 |--------------------| --------------- | ---------                                                                                                                                      |
 
-
 ## February 28
+
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
 | Node.js What's new and what's next | Michael Dawson | [slides](https://github.com/confooca/2025/blob/main/28-02-2025/Nodejs_whats_new_and_whats_next-Michael_Dawson.pdf)
