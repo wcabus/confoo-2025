@@ -30,7 +30,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Don't use JavaScript for that, use HTML and CSS! | Kilian Valkhof | [Slides (PDF)](26-02-2025/dont_use_javascript_for_that-kilian_valkhof.pdf)
 | Functional Domain Modeling in TypeScript | Nicolas Carlo | [Slides (PDF)](26-02-2025/Functional_Domain_Modeling_in_TypeScript-Nicolas_Carlo.pdf) |
 | Abstract Syntax Tree | Thibault Friedrich | [slides](2025-02-26/abstract_syntax_tree-Thibault_Friedrich.pdf) [demo](2025-02-26/abstract_syntax_tree-Thibault_Friedrich.zip) |
-
+| Learning in production (or why Apollo 11 nearly failed) | Michiel Rook | [Slides (PDF)](https://github.com/confooca/2025/blob/main/2025-02-26/Learning_In_Production-Michiel_Rook.pdf) |
 
 ## February 27
 
@@ -50,8 +50,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
 | Node.js What's new and what's next | Michael Dawson | [slides](28-02-2025/Nodejs_whats_new_and_whats_next-Michael_Dawson.pdf) |
-| Node.js What's new and what's next | Michael Dawson | [slides](28-02-2025/Nodejs_whats_new_and_whats_next-Michael_Dawson.pdf)
-XAML Who? Debuggable Cross-Platform UI with C# for Markup | Lester Botello | [Slides (PDF)](28-02-2025/LesterB%20-%20Confoo2025%20-%20XAML%20Who.pdf)  / [Code](https://github.com/lesterbotello/ConFoo2025)
+| XAML Who? Debuggable Cross-Platform UI with C# for Markup | Lester Botello | [Slides (PDF)](28-02-2025/LesterB%20-%20Confoo2025%20-%20XAML%20Who.pdf)  / [Code](https://github.com/lesterbotello/ConFoo2025)
 |Picocli, mets du Java dans ton terminal ! 🧑‍💻 ☕️ | Stéphane Philippart | [Slides (PDF)](28-02-2025/Picocli_mets_du_Java_dans_ton_terminal-stephane_philippart.pdf)  / [Code](https://github.com/philippart-s/jarvis)|
 | Intro to OpenTelemetry for Developers | AL Rodriguez | [Slides (PDF)](28-02-2025/Intro_to_OpenTelemetry_for_Developers-AL_Rodriguez.pdf) ||--------------------|---------------|---------|
 | Node.js What's new and what's next | Michael Dawson  | [slides](28-02-2025/Nodejs_whats_new_and_whats_next-Michael_Dawson.pdf) |
