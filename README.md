@@ -31,19 +31,21 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Functional Domain Modeling in TypeScript | Nicolas Carlo | [Slides (PDF)](26-02-2025/Functional_Domain_Modeling_in_TypeScript-Nicolas_Carlo.pdf) |
 | Abstract Syntax Tree | Thibault Friedrich | [slides](2025-02-26/abstract_syntax_tree-Thibault_Friedrich.pdf) [demo](2025-02-26/abstract_syntax_tree-Thibault_Friedrich.zip) |
 | Learning in production (or why Apollo 11 nearly failed) | Michiel Rook | [Slides (PDF)](https://github.com/confooca/2025/blob/main/2025-02-26/Learning_In_Production-Michiel_Rook.pdf) |
+| Finite State Machines Made Easy | Marco Ippolito | [Slides (PDF)](26-02-2025/Finite_State_Machines_Made_Easy-Marco_Ippolito.pdf) |
 
 ## February 27
 
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
-|Secure DevOps: Automated Mobile App Security Scanning | Lester Botello | [Slides (PDF)](27-02-2025/LesterB%20-%20Confoo2025%20-%20Secure%20DevOps.pdf)  / [Code](https://github.com/nventive/FlutterApplicationTemplate)|
-|👨‍💻 Utiliser un LLM aussi simplement qu'une librairie 🤖 | Stéphane Philippart | [Slides (PDF)](27-02-2025/Utiliser_un_LLM_aussi_simplement_qu_une_librairie-stephane_philippart.pdf)  / [Code](https://github.com/philippart-s/ai-as-lib)|
+| Secure DevOps: Automated Mobile App Security Scanning | Lester Botello | [Slides (PDF)](27-02-2025/LesterB%20-%20Confoo2025%20-%20Secure%20DevOps.pdf)  / [Code](https://github.com/nventive/FlutterApplicationTemplate) |
+| The Path to Native TypeScript | Marco Ippolito | [Slides (PDF)](27-02-2025/The_Path_to_Native_TypeScript-Marco_Ippolito.pdf) |
+| Secure DevOps: Automated Mobile App Security Scanning | Lester Botello | [Slides (PDF)](27-02-2025/LesterB%20-%20Confoo2025%20-%20Secure%20DevOps.pdf)  / [Code](https://github.com/nventive/FlutterApplicationTemplate)|
+| 👨‍💻 Utiliser un LLM aussi simplement qu'une librairie 🤖 | Stéphane Philippart | [Slides (PDF)](27-02-2025/Utiliser_un_LLM_aussi_simplement_qu_une_librairie-stephane_philippart.pdf)  / [Code](https://github.com/philippart-s/ai-as-lib)|
 | 6 Safe Refactorings for Untested Legacy Code | Nicolas Carlo | [Slides (PDF)](27-02-2025/6_Safe_Refactorings_for_Untested_Legacy_Code-Nicolas_Carlo.pdf) |
 | From Idea to Impact: Building RAG Beyond POC | Maria Khalusova | [Slides (PDF)](27-02-2025/From_Idea_to_Impact_Building_RAG_Beyond_POC-Maria_Khalusova.pdf) |
 | Secure DevOps: Automated Mobile App Security Scanning | Lester Botello  | [Slides (PDF)](27-02-2025/LesterB%20-%20Confoo2025%20-%20Secure%20DevOps.pdf)  / [Code](https://github.com/nventive/FlutterApplicationTemplate) |
 | Netty                                                 | Sean Sullivan | [slides (PDF)](27-02-2025/netty_sean_sullivan.pdf)|
 | Ça bouge du côté des animations CSS | Raphaël Goetter | [slides](27-02-2025/Animations_CSS-raphael_goetter.pdf) |
-
 
 ## February 28
 
