@@ -32,6 +32,8 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Learning in production (or why Apollo 11 nearly failed) | Michiel Rook | [Slides (PDF)](https://github.com/confooca/2025/blob/main/2025-02-26/Learning_In_Production-Michiel_Rook.pdf) |
 | Finite State Machines Made Easy | Marco Ippolito | [Slides (PDF)](26-02-2025/Finite_State_Machines_Made_Easy-Marco_Ippolito.pdf) |
 | Local-First Web Development With the Help of WebAssembly | Gerard Gallant | [slides](26-02-2025/local_first_web_development_with_the_help_of_webassembly-gerard_gallant.pdf), [code](26-02-2025/local_first_web_development_with_the_help_of_webassembly-gerard_gallant.zip) |
+| Securing the JavaScript Ecosystem with Reproducibility | Darcy Clarke | [Slides (PDF)](26-02-2025/Securing_the_JavaScript_Ecosystem_with_Reproducibility-Darcy_Clarke.pdf) |
+
 
 ## February 27
 
@@ -47,6 +49,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Ça bouge du côté des animations CSS | Raphaël Goetter | [slides](27-02-2025/Animations_CSS-raphael_goetter.pdf) |
 | OAuth and trustworthy AI agents | Andrew Lavers | [Slides (PDF)](27-02-2025/oauth_and_trustworthy_ai_agents-andrew_lavers.pdf) |
 | Using WebAssembly in a Web Component as a Polyfill | Gerard Gallant | [slides](27-02-2025/using_webassembly_in_a_web_component_as_a_polyfill-gerard_gallant.pdf), [code](27-02-2025/using_webassembly_in_a_web_component_as_a_polyfill-gerard_gallant.zip) |
+| Modernizing JavaScript Supply Chain Security | Darcy Clarke | [Slides (PDF)](27-02-2025/Modernizing_JavaScript_Supply_Chain_Security-Darcy_Clarke.pdf)
 
 ## February 28
 
@@ -54,7 +57,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 |--------------------|---------------|---------|
 | XAML Who? Debuggable Cross-Platform UI with C# for Markup | Lester Botello | [Slides (PDF)](28-02-2025/LesterB%20-%20Confoo2025%20-%20XAML%20Who.pdf)  / [Code](https://github.com/lesterbotello/ConFoo2025)
 | Intro to OpenTelemetry for Developers | AL Rodriguez | [Slides (PDF)](28-02-2025/Intro_to_OpenTelemetry_for_Developers-AL_Rodriguez.pdf) |
-| Node.js What's new and what's next | Michael Dawson | [slides](28-02-2025/Nodejs_whats_new_and_whats_next-Michael_Dawson.pdf) |
+| Node.js What's new and what's next | Michael Dawson | [slides](https://github.com/confooca/2025/blob/main/28-02-2025/Nodejs_whats_new_and_whats_next-Michael_Dawson.pdf)
 | XAML Who? Debuggable Cross-Platform UI with C# for Markup | Lester Botello | [Slides (PDF)](28-02-2025/LesterB%20-%20Confoo2025%20-%20XAML%20Who.pdf)  / [Code](https://github.com/lesterbotello/ConFoo2025)
 | Picocli, mets du Java dans ton terminal ! 🧑‍💻 ☕️ | Stéphane Philippart | [Slides (PDF)](28-02-2025/Picocli_mets_du_Java_dans_ton_terminal-stephane_philippart.pdf)  / [Code](https://github.com/philippart-s/jarvis)|
 | Intro to OpenTelemetry for Developers | AL Rodriguez | [Slides (PDF)](28-02-2025/Intro_to_OpenTelemetry_for_Developers-AL_Rodriguez.pdf) ||--------------------|---------------|---------|
