@@ -29,6 +29,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Accessible Web Testing with Cypress and Axe Core | Vitaly Skadorva             | [Slides (PDF)](26-02-2025/Accessible_Web_Testing_with_Cypress_and_Axe_Core-Vitaly_Skadorva.pdf) |
 | Don't use JavaScript for that, use HTML and CSS! | Kilian Valkhof | [Slides (PDF)](26-02-2025/dont_use_javascript_for_that-kilian_valkhof.pdf)
 | Functional Domain Modeling in TypeScript | Nicolas Carlo | [Slides (PDF)](26-02-2025/Functional_Domain_Modeling_in_TypeScript-Nicolas_Carlo.pdf) |
+| Abstract Syntax Tree | Thibault Friedrich | [slides](2025-02-26/abstract_syntax_tree-Thibault_Friedrich.pdf) [demo](2025-02-26/abstract_syntax_tree-Thibault_Friedrich.zip) |
 
 
 ## February 27
