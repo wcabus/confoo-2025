@@ -12,7 +12,6 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 
 ## February 26
 
-
 | Presentation Title | Speaker Name  | Content                                                                                                                          |
 |--------------------|---------------|----------------------------------------------------------------------------------------------------------------------------------|
 | Welcome to the AI Jungle! Now What? | Taylor Smith, Cedric Clyburn | [Slides (PDF)](26-02-2025/Welcome_to_the_AI_Jungle-Now_What-Taylor_Smith-Cedric_Clyburn.pdf)                                     |
@@ -27,9 +26,8 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | GitHub Actions                                        | Sean Sullivan                | [Slides (PDF)](26-02-2025/github_actions_sean_sullivan.pdf)                                                          |
 | Vector Search in Modern Databases | Peter Zaitsev | [Slides (PDF)](26-02-2025/Vector_search_in_modern_databases-Peter_Zaitsev.pdf) |
 | Accessible Web Testing with Cypress and Axe Core | Vitaly Skadorva             | [Slides (PDF)](https://github.com/confooca/2025/blob/main/26-02-2025/Accessible_Web_Testing_with_Cypress_and_Axe_Core-Vitaly_Skadorva.pdf) |
+| Don't use JavaScript for that, use HTML and CSS! | Kilian Valkhof | [Slides (PDF)](26-02-2025/dont_use_javascript_for_that-kilian_valkhof.pdf)
 |--------------------|---------------| ---------                                                                                                                        |
-
-
 
 ## February 27
 
